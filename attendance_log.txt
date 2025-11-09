@@ -11,3 +11,41 @@ Total Students Present: 3
 Total Students (Class Strength): 40
 Total Absent: 37
 
+Attendance Report
+Generated at: 2025-11-09 19:39:16
+
+Student Name          Check-in Time
+--------------------------------------
+SADGYAN SINGH         09:20 PM
+YASHWANT GIRI         09:21 PM
+--------------------------------------
+Total Students Present: 2
+Total Students (Class Strength): 10
+Total Absent: 8
+
+Attendance Report
+Generated at: 2025-11-09 19:41:07
+
+Student Name          Check-in Time
+--------------------------------------
+SAD                   09:10 AM
+SAM                   09:20 AM
+--------------------------------------
+Total Students Present: 2
+Total Students (Class Strength): 20
+Total Absent: 18
+
+Attendance Report
+Generated at: 2025-11-09 19:45:04
+
+Student Name          Check-in Time
+--------------------------------------
+SADGYAN SINGH         10:10 AM
+AMAN KUMAR            10:11 AM
+YASHWANT GIRI         10:12 AM
+KARTIK PATIDAR        10:13 AM
+--------------------------------------
+Total Students Present: 4
+Total Students (Class Strength): 30
+Total Absent: 26
+
