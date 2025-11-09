@@ -1,0 +1,13 @@
+Attendance Report
+Generated at: 2025-11-09 18:56:35
+
+Student Name          Check-in Time
+--------------------------------------
+A                     10:01 AM
+B                     10:02 AM
+C                     10:03 AM
+--------------------------------------
+Total Students Present: 3
+Total Students (Class Strength): 40
+Total Absent: 37
+
