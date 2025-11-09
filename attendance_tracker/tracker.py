@@ -87,7 +87,7 @@ save_choice = input("\nDo you want to save the attendance report to a file? (yes
 if save_choice in ("y", "yes"):
     now = datetime.now()
     stamp = now.strftime("%Y-%m-%d %H:%M:%S")
-    fname = "attendance_log.txt"
+    fname = "attendance_tracker/attendance_log.txt"
 
     lines = []
     lines.append("Attendance Report")

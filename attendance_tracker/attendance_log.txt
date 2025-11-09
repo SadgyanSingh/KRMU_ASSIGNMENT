@@ -49,3 +49,14 @@ Total Students Present: 4
 Total Students (Class Strength): 30
 Total Absent: 26
 
+Attendance Report
+Generated at: 2025-11-09 19:52:47
+
+Student Name          Check-in Time
+--------------------------------------
+SAAN                  12:10 PM
+--------------------------------------
+Total Students Present: 1
+Total Students (Class Strength): 5
+Total Absent: 4
+
