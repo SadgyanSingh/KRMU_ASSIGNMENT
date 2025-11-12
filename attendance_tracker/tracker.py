@@ -3,7 +3,7 @@
 # Name: Sadgyan Singh
 # Date: 2025-11-09
 # Assignment: Attendance Tracker Project
-# github: https://github.com/ssadgyan/KRMU_ASSIGNMENT.git
+# github: https://github.com/SadgyanSingh/KRMU_ASSIGNMENT.git
 
 from datetime import datetime
 
