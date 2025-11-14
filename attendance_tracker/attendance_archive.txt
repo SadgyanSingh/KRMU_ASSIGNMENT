@@ -1,0 +1,12 @@
+=== Attendance for: 2025-11-14 ===
+Generated at: 2025-11-14 19:46:28
+
+Student Name                Check-in Time
+--------------------------------------------
+Sad                         09:10 AM
+Sam                         09:20 AM
+--------------------------------------------
+Total Students Present: 2
+Total Students (Class Strength): 45
+Total Absent: 43
+
